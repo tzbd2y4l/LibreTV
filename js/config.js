@@ -71,7 +71,7 @@ const API_SITES = {
     name: '量子资源站',
 
 
-        adult: true,
+        adult: false,
 
 }
     //ARCHIVE https://telegra.ph/APIs-08-12
